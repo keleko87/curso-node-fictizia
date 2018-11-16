@@ -1,2 +1,2 @@
 # curso-node-fictizia
-Curso NodeJS Fizticia
+Curso NodeJS Fictizia
